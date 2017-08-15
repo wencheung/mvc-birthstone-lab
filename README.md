@@ -9,9 +9,7 @@ The goal of this lab is to create a web application that takes in a user's birth
 
 <img src='http://abigailsjewelbox.com/sitefiles/wp-content/uploads/2016/12/birthstonechart.jpg'>
 
-Don't forget to preview and test your application as you work! After installing the gems once, you will need to run the webapp
-
-from your command line to start a server. From there, simply refresh the preview window when you make changes. 
+Don't forget to preview and test your application as you work! After installing the gems once, you will need to run the webapp from your command line to start a server. From there, simply refresh the preview window when you make changes. 
 
 
 
