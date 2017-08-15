@@ -9,11 +9,7 @@ The goal of this lab is to create a web application that takes in a user's birth
 
 <img src='http://abigailsjewelbox.com/sitefiles/wp-content/uploads/2016/12/birthstonechart.jpg'>
 
-Some of the styling has been done for you, but the rest of the application needs to be created in `model.rb`, `application_controller.rb`, `index.erb`, and `results.erb`.
-
-Don't forget to preview and test your application as you work! After running `bundle install` once, you will need to run:
-
-`shotgun -p 8080 -o 0.0.0.0` 
+Don't forget to preview and test your application as you work! After installing the gems once, you will need to run the webapp
 
 from your command line to start a server. From there, simply refresh the preview window when you make changes. 
 
